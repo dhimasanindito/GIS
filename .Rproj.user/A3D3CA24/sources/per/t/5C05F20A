@@ -1,0 +1,24 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1540392660634.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "2608117393",
+    "id" : "5C05F20A",
+    "lastKnownWriteTime" : 1540393354,
+    "last_content_update" : 1540393354827,
+    "path" : "~/Documents/UCL/Geographical Information Systems and Science/gissc-master/Trial1.Rmd",
+    "project_path" : "Trial1.Rmd",
+    "properties" : {
+        "chunk_output_type" : "inline",
+        "cursorPosition" : "12,20",
+        "scrollLine" : "0",
+        "tempName" : "Untitled1"
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
